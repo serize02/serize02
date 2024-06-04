@@ -1,10 +1,10 @@
-<div align="center">
-  <img height="200" src="https://yt3.googleusercontent.com/QfykgcpEnn5dDj_yG8NwtcQiSiSSZuT091pzEACtBECGh7xuVydpV2l6rEw1IJB0kzLQaTKnfg=s900-c-k-c0x00ffffff-no-rj"  />
-</div>
+<br clear="both">
+
+<img align="right" height="180" src="https://yt3.googleusercontent.com/QfykgcpEnn5dDj_yG8NwtcQiSiSSZuT091pzEACtBECGh7xuVydpV2l6rEw1IJB0kzLQaTKnfg=s900-c-k-c0x00ffffff-no-rj"  />
 
 ###
 
-<p align="left">Hello World!! I'm Ernesto Serize.</p>
+<p align="left">Hello everyone. I am Ernesto Serize, a Kotlin backend developer. I am currently working with Ktor</p>
 
 ###
 
