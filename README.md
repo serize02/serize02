@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">As a computer science student, I'm actively building my skills in programming languages such as Java, Kotlin, and C++, while also exploring the nuances of data structures and algorithms. I've developed a strong foundation in object-oriented programming, and I'm proficient in using Ktor to build robust and scalable web applications. I've also gained hands-on experience with computer networks, operating systems, and databases, and I'm eager to apply this knowledge to real-world projects and collaborate with others to drive innovation and growth in the tech industry.</h4>
+<p align="left">As a computer science student, I'm actively building my skills in programming languages such as Java, Kotlin, and C++, while also exploring the nuances of data structures and algorithms. I've developed a strong foundation in object-oriented programming, and I'm proficient in using Ktor to build robust and scalable web applications. I've also gained hands-on experience with computer networks, operating systems, and databases, and I'm eager to apply this knowledge to real-world projects and collaborate with others to drive innovation and growth in the tech industry.</p>
 
 ###
 
