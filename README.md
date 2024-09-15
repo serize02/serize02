@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjV1NXJpOXNmaXBjOWM3Y3VlNGYxYmZ6cW8xeGI4M25pdTNwaGI2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5M5N7Rc0y2NkJWEarU/giphy.gif"  />
-</div>
-
-###
-
 <h2 align="left">More about me:</h2>
 
 ```
