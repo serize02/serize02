@@ -8,11 +8,7 @@ val serize02 = developer {
         description  = "Computer Science student, passionate about math, modeling, and programming"
     }
     tech(
-        "Kotlin",
-        "C++",
-        "Ktor",
-        @InProgress
-        "Haskell"
+        "Kotlin", "C++", "Ktor", @InProgress "Haskell"
      )
     skills = listOf("Math Modeling", "Backend Development", "Data Analysis", "Competitive Programming")
     links {
