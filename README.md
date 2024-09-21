@@ -1,6 +1,6 @@
 <h2 align="left">More about me:</h2>
 
-```
+```kotlin
 val serize02 = developer {
     about {
         name = "Ernesto Serize"
