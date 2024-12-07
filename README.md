@@ -65,8 +65,6 @@ val serize02 = developer {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="45" alt="sqlite logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=maven" height="45" alt="apachemaven logo"  />
 </div>
 
 ###
