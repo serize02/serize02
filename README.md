@@ -23,8 +23,6 @@ val serize02 = developer {
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
   <img width="15" />
@@ -42,8 +40,6 @@ val serize02 = developer {
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=kotlin" height="45" alt="kotlin logo"  />
@@ -75,8 +71,6 @@ val serize02 = developer {
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="cplusplus logo"  />
   <img width="15" />
@@ -101,8 +95,6 @@ val serize02 = developer {
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=md" height="45" alt="markdown logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" alt="bash logo"  />
 </div>
 
 ###
