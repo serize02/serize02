@@ -24,21 +24,33 @@ val serize02 = developer {
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="45" alt="anaconda logo"  />
-  <img width="15" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="45" alt="kotlin logo"  />
   <img width="15" />
+
   <img src="https://skillicons.dev/icons?i=ktor" height="45" alt="ktor logo"  />
   <img width="15" />
+
   <img src="https://skillicons.dev/icons?i=gradle" height="45" alt="gradle logo"  />
   <img width="15" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="45" alt="docker logo"  />
+  
+  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
   <img width="15" />
+  
+  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="45" alt="anaconda logo"  />
+  <img width="15" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="15" />
+  
   <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="cplusplus logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=cmake" height="45" alt="cmake logo"  />
-  <img width="15" />
+  
   <img src="https://skillicons.dev/icons?i=c" height="45" alt="c logo"  />
+  <img width="15" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="45" alt="docker logo"  />
+  <img width="15" />
 </div>
